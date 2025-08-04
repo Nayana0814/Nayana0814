@@ -2,8 +2,8 @@
 - Welcome to my GitHub profile. I am a passionate developer in the making wishing to contribute to the tech world.
 - Here you will find some of my works, both personal and collaborated projects.
 - 🚀 I am a student at Yenepoya University, Bangalore undergoing my BCA degree with specialization in Artificial Intelligence, Cloud Computing and DevOps.
-- - I’m interested in 👀 Arificial Intelligence, Web Development and Cloud Computing.
-- 🌱 I’m currently learning Web Development languages.
+- - I’m interested in 👀 Arificial Intelligence, DevOps and Cloud Computing.
+- 🌱 I’m currently learningabout AI and Cloud.
 - 📫 How to reach me ... https://www.linkedin.com/in/nayana-chandran-puravankara
 - 😄 Pronouns: she/her
 -
