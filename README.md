@@ -5,5 +5,6 @@
 - - I’m interested in 👀 Arificial Intelligence, DevOps and Cloud Computing.
 - 🌱 I’m currently learningabout AI and Cloud.
 - 📫 How to reach me ... https://www.linkedin.com/in/nayana-chandran-puravankara
+- 📫 My Bold Profile: https://bold.pro/my/nayana-chandranpuravankara-250921190826
 - 😄 Pronouns: she/her
 -
